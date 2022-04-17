@@ -4,4 +4,4 @@ A landing page made with html and responsive CSS with an emphasis on animations.
   <img alt="Leanding Page Gif" title="#shift_alt" src="./assets/space cream.gif" />
 </h1>
 
-<p>Click and check out the whole project </p> <a href="https://luiszkm.github.io/Space-Cream-landing-page-/" target="_blank"><button>click here!</button></a>
+<p>Click and check out the whole project </p> <a href="https://luiszkm.github.io/Space-Cream-landing-page-/" target="blank"><button>click here!</button></a>
